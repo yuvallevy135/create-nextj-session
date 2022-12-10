@@ -5,11 +5,10 @@ Next.js is a powerful JavaScript framework for building server-rendered and stat
 It is especially useful for creating blogs and other content-heavy websites, as it allows you to easily create pages and posts using Markdown files.
 
 Installation and Setup
-To use Next.js, you will need to have [Node.js](https://nodejs.org/en/)
- installed on your machine. Once you have Node.js, you can create a new Next.js project using the following command:
+To use Next.js, you will need to have [Node.js](https://nodejs.org/en/) installed on your machine.
+Once you have Node.js, you can create a new Next.js project using the following command:
 
-Copy code
-`npx create-next-app my-blog`
+```npx create-next-app my-blog```
 This will create a new directory called my-blog that contains all the files you need to start building your website.
 
 Project Structure
