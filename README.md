@@ -22,6 +22,16 @@ Please download VS-Code from:
 Please follow this youtube video to add ssh key to github account:
 ```https://www.youtube.com/watch?v=nZYJKXXMvkM```
 
+1.Start by doing the 'Getting Started' project of next.js:
+```[Getting Started by Next.js](https://nextjs.org/learn/basics/create-nextjs-app)```
+
+More option projects:
+1.Migrating from Create React App to Next.js using this link:
+```[Migrate from CRA to Next.js](https://nextjs.org/docs/migrating/from-create-react-app)```
+2.Create an online store, with a search bar. Dont forget to use SSG and SSR in the relevant pages.
+3.Learn about Next.js version 13 - with its crucial changes about data-fetching using getStaticProps, getStaticPaths, getServerSideProps: ```[Next.js version 13](https://nextjs.org/blog/next-13) ```
+  Migrate your application to Next.js version 13 and change these function according to what you have learned!
+  
 You now can create a new Next.js project using the following command:
 ```npx create-next-app my-blog```
 This will create a new directory called my-blog that contains all the files you need to start building your website.
@@ -29,9 +39,14 @@ This will create a new directory called my-blog that contains all the files you 
 Project Structure
 Next.js uses the following directory structure for your project:
 
-pages: This directory contains the pages and routes of your website. Each file in this directory represents a route, and the filename determines the URL of the route. For example, a file named about.js will be available at /about.
+pages: This directory contains the pages and routes of your website.
+Each file in this directory represents a route, and the filename determines the URL of the route.
+For example, a file named about.js will be available at /about.
+
 public: This directory contains any static files that you want to serve, such as images, fonts, and stylesheets.
+
 components: This directory contains React components that you can use to build your pages and layout.
+
 Creating a Blog
 To create a basic blog with Next.js, you will need to follow these steps:
 
