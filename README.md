@@ -48,6 +48,15 @@ You now can create a new Next.js project using the following command:
 ```npx create-next-app my-blog```
 This will create a new directory called my-blog that contains all the files you need to start building your website.
 
+External links:
+```[Why Next.js is also a backend framework](https://www.youtube.com/watch?v=W4UhNo3HAMw)```
+
+```[Next.js 13 no longer using SSG SSR functions](https://www.youtube.com/watch?v=g0Jc5D6tiCo)```
+
+```[CSR VS SSR at Next.js](https://www.youtube.com/watch?v=f1rF9YKm1Ms)```
+
+```[How Next.js really works](https://www.youtube.com/watch?v=d2yNsZd5PMs)```
+
 Project Structure
 Next.js uses the following directory structure for your project:
 
