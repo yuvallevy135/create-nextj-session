@@ -5,21 +5,22 @@ Next.js is a powerful JavaScript framework for building server-rendered and stat
 It is especially useful for creating blogs and other content-heavy websites, as it allows you to easily create pages and posts using Markdown files.
 
 Installation and Setup:
-To use Next.js, you will need to have [Node.js](https://nodejs.org/en/) installed on your machine.
 
-Open a terminal and install homebrew:
+1. To use Next.js, you will need to have [Node.js](https://nodejs.org/en/) installed on your machine.
+
+2. Open a terminal and install homebrew:
 ```/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"```
 
-After that install git:
+3. After that install git:
 ```brew install git```
 
-Please create a github account from:
+4. Create a github account from:
 [GitHub](https://github.com/)
 
-Please download VS-Code from:
+5. Download VS-Code from:
 [VS-Code](https://code.visualstudio.com/download)
 
-Please follow this youtube video to add ssh key to github account:
+6. Please follow this youtube video to add ssh key to github account:
 ```https://www.youtube.com/watch?v=nZYJKXXMvkM```
 
 1.Start by doing the 'Getting Started' project of next.js:
