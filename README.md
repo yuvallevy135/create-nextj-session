@@ -49,6 +49,7 @@ You now can create a new Next.js project using the following command:
 This will create a new directory called my-blog that contains all the files you need to start building your website.
 
 External links:
+
 [Why Next.js is also a backend framework](https://www.youtube.com/watch?v=W4UhNo3HAMw)
 
 [Next.js 13 no longer using SSG SSR functions](https://www.youtube.com/watch?v=g0Jc5D6tiCo)
