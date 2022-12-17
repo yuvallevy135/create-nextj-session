@@ -4,7 +4,7 @@ Next.js for Beginners: Create a Blog Website
 Next.js is a powerful JavaScript framework for building server-rendered and statically-exported applications.
 It is especially useful for creating blogs and other content-heavy websites, as it allows you to easily create pages and posts using Markdown files.
 
-Installation and Setup
+Installation and Setup:
 To use Next.js, you will need to have [Node.js](https://nodejs.org/en/) installed on your machine.
 
 Open a terminal and install homebrew:
