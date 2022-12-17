@@ -26,6 +26,7 @@ Please follow this youtube video to add ssh key to github account:
 ```[Getting Started by Next.js](https://nextjs.org/learn/basics/create-nextjs-app)```
 
 More option projects:
+
 1.Migrating from Create React App to Next.js using this link:
 ```[Migrate from CRA to Next.js](https://nextjs.org/docs/migrating/from-create-react-app)```
 
