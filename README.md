@@ -28,7 +28,9 @@ Please follow this youtube video to add ssh key to github account:
 More option projects:
 1.Migrating from Create React App to Next.js using this link:
 ```[Migrate from CRA to Next.js](https://nextjs.org/docs/migrating/from-create-react-app)```
+
 2.Create an online store, with a search bar. Dont forget to use SSG and SSR in the relevant pages.
+
 3.Learn about Next.js version 13 - with its crucial changes about data-fetching using getStaticProps, getStaticPaths, getServerSideProps: ```[Next.js version 13](https://nextjs.org/blog/next-13) ```
   Migrate your application to Next.js version 13 and change these function according to what you have learned!
   
