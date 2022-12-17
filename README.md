@@ -6,8 +6,23 @@ It is especially useful for creating blogs and other content-heavy websites, as 
 
 Installation and Setup
 To use Next.js, you will need to have [Node.js](https://nodejs.org/en/) installed on your machine.
-Once you have Node.js, you can create a new Next.js project using the following command:
 
+Open a terminal and install homebrew:
+```/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"```
+
+After that install git:
+```brew install git```
+
+Please create a github account from:
+[GitHub](https://github.com/)
+
+Please download VS-Code from:
+[VS-Code](https://code.visualstudio.com/download)
+
+Please follow this youtube video to add ssh key to github account:
+```https://www.youtube.com/watch?v=nZYJKXXMvkM```
+
+You now can create a new Next.js project using the following command:
 ```npx create-next-app my-blog```
 This will create a new directory called my-blog that contains all the files you need to start building your website.
 
