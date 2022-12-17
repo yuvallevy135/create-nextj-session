@@ -9,26 +9,33 @@ Installation and Setup:
 1. To use Next.js, you will need to have [Node.js](https://nodejs.org/en/) installed on your machine.
 
 2. Open a terminal and install homebrew:
+
 ```/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"```
 
 3. After that install git:
+
 ```brew install git```
 
 4. Create a github account from:
+
 [GitHub](https://github.com/)
 
 5. Download VS-Code from:
+
 [VS-Code](https://code.visualstudio.com/download)
 
 6. Please follow this youtube video to add ssh key to github account:
+
 ```https://www.youtube.com/watch?v=nZYJKXXMvkM```
 
 1.Start by doing the 'Getting Started' project of next.js:
+
 ```[Getting Started by Next.js](https://nextjs.org/learn/basics/create-nextjs-app)```
 
 More option projects:
 
 1. Migrating from Create React App to Next.js using this link:
+
 ```[Migrate from CRA to Next.js](https://nextjs.org/docs/migrating/from-create-react-app)```
 
 2. Create an online store, with a search bar. Dont forget to use SSG and SSR in the relevant pages.
