@@ -30,7 +30,7 @@ Installation and Setup:
 
 1.Start by doing the 'Getting Started' project of next.js:
 
-```[Getting Started by Next.js](https://nextjs.org/learn/basics/create-nextjs-app)```
+[Getting Started by Next.js](https://nextjs.org/learn/basics/create-nextjs-app)
 
 More option projects:
 
