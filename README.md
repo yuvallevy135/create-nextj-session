@@ -40,7 +40,9 @@ More option projects:
 
 2. Create an online store, with a search bar. Dont forget to use SSG and SSR in the relevant pages.
 
-3. 1. Learn about Next.js version 13 - with its crucial changes about data-fetching using getStaticProps, getStaticPaths, getServerSideProps: ```[Next.js version 13](https://nextjs.org/blog/next-13) ```
+3. 1. Learn about Next.js version 13 - with its crucial changes about data-fetching using getStaticProps, getStaticPaths, getServerSideProps:
+4. 
+5. [Next.js version 13](https://nextjs.org/blog/next-13)
 
 3. 2. Migrate your application to Next.js version 13 and change these function according to what you have learned!
   
@@ -49,6 +51,8 @@ You now can create a new Next.js project using the following command:
 This will create a new directory called my-blog that contains all the files you need to start building your website.
 
 External links:
+
+[GitHub](https://github.com/)
 
 [Why Next.js is also a backend framework](https://www.youtube.com/watch?v=W4UhNo3HAMw)
 
