@@ -26,7 +26,7 @@ Installation and Setup:
 
 6. Please follow this youtube video to add ssh key to github account:
 
-```https://www.youtube.com/watch?v=nZYJKXXMvkM```
+[Add SSH to Github]([https://nextjs.org/learn/basics/create-nextjs-app](https://www.youtube.com/watch?v=nZYJKXXMvkM))
 
 1.Start by doing the 'Getting Started' project of next.js:
 
@@ -36,7 +36,7 @@ More option projects:
 
 1. Migrating from Create React App to Next.js using this link:
 
-```[Migrate from CRA to Next.js](https://nextjs.org/docs/migrating/from-create-react-app)```
+[Migrate from CRA to Next.js](https://nextjs.org/docs/migrating/from-create-react-app)
 
 2. Create an online store, with a search bar. Dont forget to use SSG and SSR in the relevant pages.
 
