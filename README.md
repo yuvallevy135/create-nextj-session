@@ -26,7 +26,7 @@ Installation and Setup:
 
 6. Please follow this youtube video to add ssh key to github account:
 
-[Add SSH to Github]([https://nextjs.org/learn/basics/create-nextjs-app](https://www.youtube.com/watch?v=nZYJKXXMvkM))
+[Add SSH to Github](https://www.youtube.com/watch?v=nZYJKXXMvkM)
 
 1.Start by doing the 'Getting Started' project of next.js:
 
