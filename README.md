@@ -28,7 +28,6 @@ Installation and Setup:
 
 [Add SSH to Github](https://www.youtube.com/watch?v=nZYJKXXMvkM)
 
-שד
 Tasks to do:
 
 
