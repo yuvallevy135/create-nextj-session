@@ -28,6 +28,10 @@ Installation and Setup:
 
 [Add SSH to Github](https://www.youtube.com/watch?v=nZYJKXXMvkM)
 
+שד
+Tasks to do:
+
+
 1.Start by doing the 'Getting Started' project of next.js:
 
 [Getting Started by Next.js](https://nextjs.org/learn/basics/create-nextjs-app)
