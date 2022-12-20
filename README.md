@@ -28,14 +28,14 @@ Installation and Setup:
 
 [Add SSH to Github](https://www.youtube.com/watch?v=nZYJKXXMvkM)
 
-Tasks to do:
 
+Tasks to do:
 
 1.Start by doing the 'Getting Started' project of next.js:
 
 [Getting Started by Next.js](https://nextjs.org/learn/basics/create-nextjs-app)
 
-More option projects:
+More optional projects:
 
 1. Migrating from Create React App to Next.js using this link:
 
@@ -48,6 +48,8 @@ More option projects:
 [Next.js version 13](https://nextjs.org/blog/next-13)
 
 3. 2. Migrate your application to Next.js version 13 and change these function according to what you have learned!
+
+
   
 External links:
 
